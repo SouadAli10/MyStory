@@ -25,7 +25,11 @@ body{
     background-color: white;
     
 } */
-
+img{
+    background-position: center;
+    height: 50%;
+    width: 50%;
+}
 .radio-option{
     -webkit-appearance: none;
     -moz-appearance: none;
@@ -84,7 +88,7 @@ body{
   .buttonStyle:hover{
       background-color: #22dd33;
   }
-  .retryButton{
+  .centerButton{
       position: relative;
       left: 40%;
   }
